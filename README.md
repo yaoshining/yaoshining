@@ -24,9 +24,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=yaoshining&style=for-the-badge)
 
-##
-[![linkedin/eltonsandre](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eltonsandre)
-
 <!--
 **yaoshining/yaoshining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
