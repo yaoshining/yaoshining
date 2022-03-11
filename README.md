@@ -22,7 +22,7 @@
 ![yaoshining's github stats](https://github-readme-stats.vercel.app/api?username=yaoshining&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dracula)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoshining&layout=compact&langs_count=8&hide_border=true&theme=dracula)
 
-![Profile views](https://komarev.com/ghpvc/?username=eltonsandre&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=yaoshining&style=for-the-badge)
 
 ##
 [![linkedin/eltonsandre](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eltonsandre)
